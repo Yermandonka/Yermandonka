@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Yermandonka/Yermandonka/main/Images/german.png)](https://Yermandonka.github.io)
+[![ProfileBanner](https://github.com/Yermandonka/Yermandonka/main/german.png)](https://Yermandonka.github.io)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
