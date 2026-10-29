@@ -2,6 +2,12 @@
 
 <img src="./assets/profile-terminal.svg" alt="Terminal profile of Germán Mendonça" width="100%" />
 
+</div>
+
+---
+
+<div align="center">
+
 ### `connect --with-me`
 
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yermandonka@gmail.com)
@@ -11,6 +17,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Yermandonka&style=flat-square&color=7c83fd&label=profile+views)](https://github.com/Yermandonka)
 
 </div>
+
+---
 
 <div align="center">
 
