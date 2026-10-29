@@ -2,8 +2,12 @@
 
 <img src="./assets/profile-terminal.svg" alt="Terminal profile of Germán Mendonça" width="100%" />
 
-[![Email](https://img.shields.io/badge/Email-yermandonka%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yermandonka@gmail.com)
-[![Projects](https://img.shields.io/badge/Public_projects-9-52d6c8?style=flat-square&logo=github&logoColor=white)](https://github.com/Yermandonka?tab=repositories)
+### `connect --with-me`
+
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yermandonka@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@yermandonka-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yermandonka)
+[![GitHub](https://img.shields.io/badge/GitHub-9_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yermandonka?tab=repositories)
+
 [![Profile views](https://komarev.com/ghpvc/?username=Yermandonka&style=flat-square&color=7c83fd&label=profile+views)](https://github.com/Yermandonka)
 
 </div>
@@ -170,6 +174,7 @@ Languages     Portuguese: native · English: B2 · French: B1
 
 ### `$ ./build-something-human`
 
-[Email](mailto:yermandonka@gmail.com) · [Repositories](https://github.com/Yermandonka?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yermandonka@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@yermandonka-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yermandonka)
 
 </div>
