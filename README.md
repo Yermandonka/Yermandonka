@@ -12,13 +12,27 @@
 
 </div>
 
-## `$ whoami`
+<div align="center">
 
-Computer Engineering + Business Administration student. I turn human friction into useful systems—from learning tools and business platforms to data products and desktop software.
+## `> whoami`
 
-```text
-person → problem → prototype → real use → iteration → product
-```
+### Engineering the bridge between people and technology.
+
+**Computer Engineering** `×` **Business Administration**
+
+I turn everyday friction into learning tools, data products, business platforms and desktop software that people can actually use.
+
+![Listen](https://img.shields.io/badge/01-Listen-151e2a?style=flat-square)
+![Understand](https://img.shields.io/badge/02-Understand-273244?style=flat-square)
+![Build](https://img.shields.io/badge/03-Build-167d86?style=flat-square)
+![Test](https://img.shields.io/badge/04-Test-565bc4?style=flat-square)
+![Improve](https://img.shields.io/badge/05-Improve-ff9f43?style=flat-square)
+
+<sub><code>people first · architecture second · iteration always</code></sub>
+
+</div>
+
+---
 
 <table>
 <tr>
