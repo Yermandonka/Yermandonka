@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="620" viewBox="0 0 1280 620" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal profile of Germán Mendonça</title>
+  <desc id="desc">A terminal-style profile card showing Germán's education, technologies, languages, interests and GitHub projects.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101722"/>
+      <stop offset="1" stop-color="#0a0f18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff9f43"/>
+      <stop offset="0.5" stop-color="#36d1dc"/>
+      <stop offset="1" stop-color="#7c83fd"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .dim { fill: #7f8b9c; }
+      .label { fill: #ff9f43; font-weight: 700; }
+      .value { fill: #9bd7ff; }
+      .white { fill: #e7edf5; }
+      .cyan { fill: #52d6c8; }
+      .purple { fill: #a8a4ff; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="620" rx="26" fill="#070b11"/>
+  <rect x="18" y="18" width="1244" height="584" rx="20" fill="url(#panel)" stroke="#273244" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="18" y="18" width="1244" height="54" rx="20" fill="#151e2a"/>
+  <rect x="18" y="52" width="1244" height="20" fill="#151e2a"/>
+  <circle cx="50" cy="45" r="8" fill="#ff5f57"/>
+  <circle cx="76" cy="45" r="8" fill="#febc2e"/>
+  <circle cx="102" cy="45" r="8" fill="#28c840"/>
+  <text x="640" y="51" text-anchor="middle" class="mono dim" font-size="17">german@yermandonka: ~</text>
+  <rect x="18" y="70" width="1244" height="4" fill="url(#accent)" opacity="0.85"/>
+
+  <!-- Original GM terminal mark -->
+  <g class="mono" font-size="24" font-weight="700">
+    <text x="78" y="137" class="cyan">       ██████╗ ███╗   ███╗</text>
+    <text x="78" y="169" class="cyan">      ██╔════╝ ████╗ ████║</text>
+    <text x="78" y="201" class="cyan">      ██║  ███╗██╔████╔██║</text>
+    <text x="78" y="233" class="purple">      ██║   ██║██║╚██╔╝██║</text>
+    <text x="78" y="265" class="purple">      ╚██████╔╝██║ ╚═╝ ██║</text>
+    <text x="78" y="297" class="purple">       ╚═════╝ ╚═╝     ╚═╝</text>
+  </g>
+  <text x="245" y="347" text-anchor="middle" class="mono white" font-size="22" font-weight="700">GERMÁN MENDONÇA</text>
+  <text x="245" y="378" text-anchor="middle" class="mono dim" font-size="17">build systems for people</text>
+
+  <g class="mono" font-size="17">
+    <text x="72" y="438" class="dim">┌─ CURRENT MODE ───────────────┐</text>
+    <text x="72" y="470" class="label">│ focus</text><text x="172" y="470" class="value">product · learning · data</text>
+    <text x="72" y="500" class="label">│ signal</text><text x="172" y="500" class="value">human problem → useful system</text>
+    <text x="72" y="530" class="label">│ status</text><text x="172" y="530" class="value">building &amp; learning</text>
+    <text x="72" y="558" class="dim">└──────────────────────────────┘</text>
+  </g>
+
+  <line x1="510" y1="112" x2="510" y2="556" stroke="#273244" stroke-width="2"/>
+
+  <g class="mono" font-size="18">
+    <text x="558" y="122" class="white" font-size="23" font-weight="700">german@yermandonka</text>
+    <text x="558" y="146" class="dim">────────────────────────────────────────────────────────</text>
+
+    <text x="558" y="182" class="label">Degree</text><text x="692" y="182" class="dim">········</text><text x="790" y="182" class="value">Computer Engineering + Business</text>
+    <text x="558" y="214" class="label">Based</text><text x="692" y="214" class="dim">·········</text><text x="790" y="214" class="value">Madrid, Spain</text>
+    <text x="558" y="246" class="label">OS</text><text x="692" y="246" class="dim">············</text><text x="790" y="246" class="value">Linux</text>
+
+    <text x="558" y="294" class="label">Code</text><text x="692" y="294" class="dim">··········</text><text x="790" y="294" class="value">TypeScript · Python · PHP · Java</text>
+    <text x="558" y="326" class="label">Web</text><text x="692" y="326" class="dim">···········</text><text x="790" y="326" class="value">React · Next.js · HTML · CSS</text>
+    <text x="558" y="358" class="label">Systems</text><text x="692" y="358" class="dim">·······</text><text x="790" y="358" class="value">MySQL · Docker · Git · Vercel</text>
+
+    <text x="558" y="406" class="label">Languages</text><text x="692" y="406" class="dim">·····</text><text x="790" y="406" class="value">Portuguese · English · French</text>
+    <text x="558" y="438" class="label">Beyond code</text><text x="692" y="438" class="dim">····</text><text x="790" y="438" class="value">Debate · teaching · volunteering</text>
+
+    <text x="558" y="486" class="white" font-weight="700">GitHub / selected work</text>
+    <text x="558" y="510" class="dim">────────────────────────────────────────────────────────</text>
+    <text x="558" y="542" class="label">Projects</text><text x="692" y="542" class="dim">·······</text><text x="790" y="542" class="value">9 public systems · 1 profile</text>
+    <text x="558" y="574" class="label">Principle</text><text x="692" y="574" class="dim">······</text><text x="790" y="574" class="value">people first, architecture second</text>
+  </g>
+</svg>
