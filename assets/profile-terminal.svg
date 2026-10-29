@@ -72,9 +72,9 @@
     <text x="558" y="406" class="label">Languages</text><text x="692" y="406" class="dim">·····</text><text x="790" y="406" class="value">Portuguese · English · French</text>
     <text x="558" y="438" class="label">Beyond code</text><text x="692" y="438" class="dim">····</text><text x="790" y="438" class="value">Debate · teaching · volunteering</text>
 
-    <text x="558" y="486" class="white" font-weight="700">GitHub / selected work</text>
+    <text x="558" y="486" class="white" font-weight="700">Profile / working style</text>
     <text x="558" y="510" class="dim">────────────────────────────────────────────────────────</text>
-    <text x="558" y="542" class="label">Projects</text><text x="692" y="542" class="dim">·······</text><text x="790" y="542" class="value">9 public systems · 1 profile</text>
+    <text x="558" y="542" class="label">Role</text><text x="692" y="542" class="dim">···········</text><text x="790" y="542" class="value">builder · learner · communicator</text>
     <text x="558" y="574" class="label">Principle</text><text x="692" y="574" class="dim">······</text><text x="790" y="574" class="value">people first, architecture second</text>
   </g>
 </svg>
