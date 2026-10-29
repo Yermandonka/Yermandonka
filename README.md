@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ### `connect --with-me`
@@ -15,6 +17,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Yermandonka&style=flat-square&color=7c83fd&label=profile+views)](https://github.com/Yermandonka)
 
 </div>
+
+---
 
 <div align="center">
 
@@ -35,6 +39,8 @@ I turn everyday friction into learning tools, data products, business platforms 
 <sub><code>people first · architecture second · iteration always</code></sub>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -62,6 +68,8 @@ I combine technical thinking with communication, teaching and business context�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,php,python,java,c,cpp,mysql,docker,git,vercel&perline=16" alt="Technology stack" />
 </p>
+
+---
 
 <div align="center">
 

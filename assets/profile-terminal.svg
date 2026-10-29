@@ -55,11 +55,8 @@
     <text x="72" y="558" class="dim">└──────────────────────────────┘</text>
   </g>
 
-  <line x1="510" y1="112" x2="510" y2="556" stroke="#273244" stroke-width="2"/>
-
   <g class="mono" font-size="18">
     <text x="558" y="122" class="white" font-size="23" font-weight="700">german@yermandonka</text>
-    <text x="558" y="146" class="dim">────────────────────────────────────────────────────────</text>
 
     <text x="558" y="182" class="label">Degree</text><text x="692" y="182" class="dim">········</text><text x="790" y="182" class="value">Computer Engineering + Business</text>
     <text x="558" y="214" class="label">Based</text><text x="692" y="214" class="dim">·········</text><text x="790" y="214" class="value">Madrid, Spain</text>
@@ -73,7 +70,6 @@
     <text x="558" y="438" class="label">Beyond code</text><text x="692" y="438" class="dim">····</text><text x="790" y="438" class="value">Debate · teaching · volunteering</text>
 
     <text x="558" y="486" class="white" font-weight="700">Profile / working style</text>
-    <text x="558" y="510" class="dim">────────────────────────────────────────────────────────</text>
     <text x="558" y="542" class="label">Role</text><text x="692" y="542" class="dim">···········</text><text x="790" y="542" class="value">builder · learner · communicator</text>
     <text x="558" y="574" class="label">Principle</text><text x="692" y="574" class="dim">······</text><text x="790" y="574" class="value">people first, architecture second</text>
   </g>
