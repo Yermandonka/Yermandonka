@@ -20,8 +20,6 @@ Computer Engineering + Business Administration student. I turn human friction in
 person → problem → prototype → real use → iteration → product
 ```
 
-## `$ ls projects/`
-
 <table>
 <tr>
 <td width="50%" valign="top">
